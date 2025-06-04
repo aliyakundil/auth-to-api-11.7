@@ -22,7 +22,34 @@ limit/offset: ![image](https://github.com/user-attachments/assets/00e45479-d8d4-
 ![image](https://github.com/user-attachments/assets/35d0548d-83b6-4802-b820-6f4f354babdc)
 9. Favorite an article
 ![image](https://github.com/user-attachments/assets/784eaac4-20c1-46cf-952e-86f689a8c845)
+10. Unfavorite an article
+![image](https://github.com/user-attachments/assets/24d06d35-6170-41b9-b1a7-58ad4975c32a)
 
+Feed
+Get recent articles from users you follow
+![image](https://github.com/user-attachments/assets/3af48754-e41f-45a3-8c0b-d53125e00e57)
 
+Profiles
+Get a profile
+![image](https://github.com/user-attachments/assets/f7ec83db-3914-4405-b18c-1a7ec94eb0ca)
+Follow a user
+![image](https://github.com/user-attachments/assets/7c33bb11-25a5-4f38-8c3e-a9848c862230)
+Unfollow a user
+![image](https://github.com/user-attachments/assets/9abbc809-8144-4d00-9101-2a689482ce4b)
 
+Tags
+Get tags
+![image](https://github.com/user-attachments/assets/50afc82c-5fc9-4dfa-98b8-38323bd8848f)
+
+User
+Get current user
+![image](https://github.com/user-attachments/assets/6971db7c-d5d8-46c7-acfc-9d4b9bb8818f)
+Update current user
+![image](https://github.com/user-attachments/assets/a6e2a871-4879-4d21-9529-1a6fddf6f78f)
+
+Users
+Existing user login
+![image](https://github.com/user-attachments/assets/4ab36cd8-3732-4787-867c-e9d7895bf218)
+Register a new user
+![image](https://github.com/user-attachments/assets/d415348b-d776-4b7a-995c-781f0c83a696)
 
