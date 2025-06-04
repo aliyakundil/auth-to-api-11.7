@@ -5,8 +5,8 @@
 ![image](https://github.com/user-attachments/assets/8acf7c6c-726a-4591-9dd8-ca1268c6a468)
 tag: ![image](https://github.com/user-attachments/assets/abae778a-1e9c-40cf-9a33-77735ae62628)
 author: ![image](https://github.com/user-attachments/assets/890feed7-2721-4879-a828-fd39aa83d0da)
-favorited: ![image](https://github.com/user-attachments/assets/00e45479-d8d4-46da-bef8-f74c768812ec)
-limit/offset: ![image](https://github.com/user-attachments/assets/09802767-464a-43db-9159-1c14af36a8a6)
+favorited: ![image](https://github.com/user-attachments/assets/104b2685-8554-4645-87aa-890dc03450a0)
+limit/offset: ![image](https://github.com/user-attachments/assets/00e45479-d8d4-46da-bef8-f74c768812ec)
 
 3. Create an article
 ![image](https://github.com/user-attachments/assets/4a15c6e3-372e-4fbd-a86c-e98cc2db1ebf)
