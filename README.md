@@ -17,6 +17,7 @@ limit/offset: ![image](https://github.com/user-attachments/assets/00e45479-d8d4-
 ![image](https://github.com/user-attachments/assets/b625fbec-bcb9-4b6f-8bab-8ac0fded930a)
 ![image](https://github.com/user-attachments/assets/a3cce4b0-1334-4f88-a6e1-637d01f9f96a)
 7. Get comments for an article
+![image](https://github.com/user-attachments/assets/19928ec2-856c-464e-87f0-9c17b0ca2304)
 
 
 
