@@ -6,6 +6,8 @@
 tag: ![image](https://github.com/user-attachments/assets/abae778a-1e9c-40cf-9a33-77735ae62628)
 author: ![image](https://github.com/user-attachments/assets/890feed7-2721-4879-a828-fd39aa83d0da)
 favorited: ![image](https://github.com/user-attachments/assets/00e45479-d8d4-46da-bef8-f74c768812ec)
-limit/offset: ![Uploading image.png…]()
+limit/offset: ![image](https://github.com/user-attachments/assets/09802767-464a-43db-9159-1c14af36a8a6)
+3. Create an article
+![Uploading image.png…]()
 
 
