@@ -18,6 +18,10 @@ limit/offset: ![image](https://github.com/user-attachments/assets/00e45479-d8d4-
 ![image](https://github.com/user-attachments/assets/a3cce4b0-1334-4f88-a6e1-637d01f9f96a)
 7. Get comments for an article
 ![image](https://github.com/user-attachments/assets/19928ec2-856c-464e-87f0-9c17b0ca2304)
+8. Delete a comment for an article
+![image](https://github.com/user-attachments/assets/35d0548d-83b6-4802-b820-6f4f354babdc)
+9. Favorite an article
+![image](https://github.com/user-attachments/assets/784eaac4-20c1-46cf-952e-86f689a8c845)
 
 
 
