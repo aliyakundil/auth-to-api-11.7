@@ -9,6 +9,7 @@ favorited: ![image](https://github.com/user-attachments/assets/00e45479-d8d4-46d
 limit/offset: ![image](https://github.com/user-attachments/assets/09802767-464a-43db-9159-1c14af36a8a6)
 
 3. Create an article
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4a15c6e3-372e-4fbd-a86c-e98cc2db1ebf)
+
 
 
